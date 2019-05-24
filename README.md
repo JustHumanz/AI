@@ -5,4 +5,4 @@ Kelompok Zeeb
 171111121	M. Aldin Yulis Setiawan  
 
 # Description
-Membuat AI yang dapat menentukan user yang membutuhan bandwidth lebih atau bandwidth secukupnya
+Memprediksi penggunaan bandwidth pada user
