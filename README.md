@@ -7,4 +7,4 @@ Kelompok Zeeb
 # Description
 Memprediksi pengguna internet rumah tangga
 
-https://data.oecd.org/ict/internet-access.html
+https://data.oecd.org/ict/internet-access.htm
