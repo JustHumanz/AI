@@ -5,6 +5,7 @@ Kelompok Zeeb
 171111121	M. Aldin Yulis Setiawan  
 
 # Description
-Memprediksi pengguna internet rumah tangga
+Memprediksi penggunaan data internet
 
+dataset :
 https://data.oecd.org/ict/internet-access.htm
